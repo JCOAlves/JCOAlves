@@ -1,17 +1,32 @@
-## Oi! Sou Júlio César 👋
-Sou um estudante do curso de Informatica do **IFRN**. Tenho um grande interesse na área de *Desenvolvimento Web* e *Engenharia de Software*, além de uma grande vontadade de aprender e crescer na área da programação.
+# Oi! Sou Júlio César 👋
+Sou estudante do curso de Informatica do **IFRN**. Tenho um grande interesse na área de *Desenvolvimento Web* e *Engenharia de Software*, além de uma grande vontadade de aprender e crescer na área da programação.
 
 <div style="display: flex; flex-direction: row; justify-content: space-between;">
-  <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python"/>
-  <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" alt="Flask"/>
-  <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript"/>
-  <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" alt="Express JS"/>
-  <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React JS"/>
-  <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" alt="Unity C#"/>
-  <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#"/>
-  <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" alt="Git"/>
-  <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub"/>
-  <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VSCODE"/>
+  <img height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" alt="Git"/>
+  <img height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub"/>
+  <img height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VSCODE"/>
+</div>
+
+## Linguagens de Programação
+<div style="display: flex; flex-direction: row; justify-content: space-between;">
+  <img height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python"/>
+  <img height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript"/>
+  <!--
+    <img height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript"/>
+  -->
+  <img height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#"/>
+  <img height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" alt="Unity C#"/>
+</div>
+
+## Backend
+<div style="display: flex; flex-direction: row; justify-content: space-between;">
+  <img height="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" alt="Flask"/>
+  <img height="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" alt="Express JS"/>
+</div>
+
+## Frontend
+<div style="display: flex; flex-direction: row; justify-content: space-between;">
+  <img height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React JS"/>
 </div>
 
 <!--
