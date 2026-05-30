@@ -1,5 +1,6 @@
 # Oi! Sou Júlio César 👋
 Sou estudante do curso de Informatica do **IFRN**. Tenho um grande interesse na área de *Desenvolvimento Web* e *Engenharia de Software*, além de uma grande vontadade de aprender e crescer na área da programação.
+Tenho conhecimento das etapas do processo de desenvovimento e construção de softwares e versionamento de códigos com Git e GitHub.
 
 <div style="display: flex; flex-direction: row; justify-content: space-between;">
   <img height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" alt="Git"/>
@@ -8,6 +9,9 @@ Sou estudante do curso de Informatica do **IFRN**. Tenho um grande interesse na 
 </div>
 
 ## Linguagens de Programação
+- Python
+- JavaScript
+- C# para Unity
 <div style="display: flex; flex-direction: row; justify-content: space-between;">
   <img height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python"/>
   <img height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript"/>
@@ -19,12 +23,15 @@ Sou estudante do curso de Informatica do **IFRN**. Tenho um grande interesse na 
 </div>
 
 ## Backend
+- Flask Python
+- Express JS
 <div style="display: flex; flex-direction: row; justify-content: space-between;">
   <img height="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" alt="Flask"/>
   <img height="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" alt="Express JS"/>
 </div>
 
 ## Frontend
+- React JS
 <div style="display: flex; flex-direction: row; justify-content: space-between;">
   <img height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React JS"/>
 </div>
