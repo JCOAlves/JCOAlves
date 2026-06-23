@@ -2,41 +2,39 @@
 Sou estudante do curso de Informatica do **IFRN**. Tenho um grande interesse na área de *Desenvolvimento Web* e *Engenharia de Software*, além de uma grande vontadade de aprender e crescer na área da programação.
 Tenho conhecimento das etapas do processo de desenvovimento e construção de softwares e versionamento de códigos com Git e GitHub.
 
-<div style="display: flex; flex-direction: row; justify-content: space-between;">
-  <img height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" alt="Git"/>
-  <img height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub"/>
-  <img height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VSCODE"/>
-</div>
+[![ferramentas de desenvolvimento](https://skillicons.dev/icons?i=git,github,vscode,npm,notion)](https://skillicons.dev)
 
 ## Linguagens de Programação
 - Python
 - JavaScript
+- TypeScript
 - C# para Unity
-<div style="display: flex; flex-direction: row; justify-content: space-between;">
-  <img height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python"/>
-  <img height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript"/>
-  <!--
-    <img height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript"/>
-  -->
-  <img height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#"/>
-  <img height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" alt="Unity C#"/>
-</div>
+
+[![Linguagens](https://skillicons.dev/icons?i=py,js,ts,cs,unity)](https://skillicons.dev)
+
 
 ## Backend
 - Flask Python
-- Express JS
-<div style="display: flex; flex-direction: row; justify-content: space-between;">
-  <img height="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" alt="Flask"/>
-  <img height="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" alt="Express JS"/>
-</div>
+- Node JS + Express
+- Sequelize
+
+[![Bibliotecas e frameworks Backend](https://skillicons.dev/icons?i=flask,nodejs,express,sequelize)](https://skillicons.dev)
 
 ## Frontend
+- Vite
 - React JS
-<div style="display: flex; flex-direction: row; justify-content: space-between;">
-  <img height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React JS"/>
-</div>
+- Tailwind CSS
+
+[![Bibliotecas e frameworks Frontend](https://skillicons.dev/icons?i=vite,react,tailwind)](https://skillicons.dev)
+
+## Banco de dados
+- MySQL
+
+[![Banco de dados](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+
 
 <!--
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev) <--- Link para adicioção de icons
 **JCOAlves/JCOAlves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
