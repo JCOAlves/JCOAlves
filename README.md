@@ -4,6 +4,8 @@ Tenho conhecimento das etapas do processo de desenvovimento e construção de so
 
 [![ferramentas de desenvolvimento](https://skillicons.dev/icons?i=git,github,vscode,npm,notion)](https://skillicons.dev)
 
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=JCOAlves&show_icons=true&theme=transparent)](https://github.com/pranesh-2005/github-readme-stats-fast)
+
 ## Linguagens de Programação
 - Python
 - JavaScript
