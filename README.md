@@ -12,7 +12,7 @@ Tenho conhecimento das etapas do processo de desenvovimento e construção de so
 - TypeScript
 - C# para Unity
 
-[![Linguagens](https://skillicons.dev/icons?i=py,js,ts,cs,unity)](https://skillicons.dev)
+[![Linguagens](https://skillicons.dev/icons?i=py,js,html,css,ts,cs,unity)](https://skillicons.dev)
 
 
 ## Backend
